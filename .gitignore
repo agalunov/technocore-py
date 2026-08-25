@@ -1,0 +1,10 @@
+# private keys - never commit these
+*.pem
+*.key
+.env
+
+# python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
