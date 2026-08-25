@@ -15,7 +15,7 @@ Written and tested on macOS (Python 3.14 in a virtual environment). It should wo
 Python 3.9 or newer.
 
 ```bash
-git clone https://github.com/<your-username>/technocore-py.git
+git clone https://github.com/agalunov/technocore-py.git
 cd technocore-py
 python3 -m pip install cryptography
 ```
