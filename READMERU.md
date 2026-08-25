@@ -15,7 +15,7 @@
 Python 3.9 или новее.
 
 ```bash
-git clone https://github.com/<ваш-логин>/technocore-py.git
+git clone https://github.com/agalunov/technocore-py.git
 cd technocore-py
 python3 -m pip install cryptography
 ```
